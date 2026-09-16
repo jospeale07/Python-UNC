@@ -18,5 +18,5 @@ class Animal:
       self.nombre = nombre
       self.edad = edad
     
-  def hacer_sonido(self)
+  def hacer_sonido(self):
       print("El animal hace un sonido genérico")  
