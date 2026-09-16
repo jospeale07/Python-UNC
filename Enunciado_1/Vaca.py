@@ -1,5 +1,7 @@
-from Animal import Animal  
+from Animal import Animal
+from Perro import Perro
+from Gato import Gato
 
-class Perro:  
+class Gato(Animal):  
   def Animal(self, Perro, Guau):
       
