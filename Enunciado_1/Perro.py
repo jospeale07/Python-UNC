@@ -1,5 +1,5 @@
 from Animal import Animal  
 
-class Perro:  
+class Perro(Animal):  
   def Animal(self, Perro, Guau):
       
